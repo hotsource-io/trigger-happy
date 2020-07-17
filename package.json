@@ -35,7 +35,7 @@
     "immutable": "^3.8.2",
     "isomorphic-fetch": "^2.2.1",
     "jsep": "^0.3.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "lodash.debounce": "^4.0.8",
     "react-autosuggest": "^9.0.1",
     "react-collapsible": "^2.0.3",
