@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
-    "codemirror": "^5.26.0",
+    "codemirror": "^5.58.2",
     "eslint": "^4.11.0",
     "eslint-config-wordpress": "^2.0.0",
     "html-entities": "^1.2.1",
